@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lendi Institute of Engineering & Technology</title>
+    <title>Sushma Institute of Engineering & Technology</title>
     <style>
         body {
             font-family: Arial, sans-serif;
